@@ -1,0 +1,13 @@
+beautifulsoup4==4.12.0
+docx==0.2.4
+docx2pdf==0.1.8
+langdetect==1.0.9
+nltk==3.8.1
+openai==0.27.2
+pandas==1.5.3
+python_docx==0.8.11
+pywin32==306
+scikit_learn==1.2.2
+selenium==3.141.0
+spacy==3.5.1
+webdriver_manager==3.8.5
